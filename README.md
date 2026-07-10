@@ -29,6 +29,13 @@
 - 📍 Based in Chennai, India
 - 💬 Ask me about RAG pipelines, LangChain, Computer Vision, Edge AI, or full-stack GenAI apps
 
+### 💭 Random Dev Quote
+ 
+<div align="center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+</div>
+
 ### 🚀 What I'm Building Right Now
 
 - 🛡️ **SHIELD** — a women's safety platform pairing a smartphone app with an IoT wearable that passively monitors biometrics and computer-vision signals to compute a real-time "Danger Index" for autonomous emergency escalation
