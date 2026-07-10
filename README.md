@@ -75,8 +75,8 @@
 <tr>
 <td width="50%">
 
-**⚠️ Automated Hazard-Detection Framework**
-Engineered a real-time hazard-detection framework for industrial safety, elevating accuracy by 12% and eliminating 10+ hours per week of manual quality checks[cite: 1].
+**⚠️ Automated Hazard-Detection In Industrial areas**
+Engineered a real-time hazard-detection framework for industrial safety, elevating accuracy by 12% and eliminating 10+ hours per week of manual quality checks.
 `Python` `OpenCV` `Deep Learning` `TensorRT`
 
 </td>
