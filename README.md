@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harikrishnan R</h1>
-<h3 align="center">AI Developer | Edge AI & Computer Vision Specialist</h3>
+<h3 align="center">AI Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+LLM-Powered+Solutions;Specializing+in+RAG+%26+Edge+AI;Optimizing+Deep+Learning+Inference;Full-Stack+AI+Integration" alt="Typing SVG" />
