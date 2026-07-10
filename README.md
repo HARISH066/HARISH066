@@ -125,6 +125,12 @@ IoT wearable + app combo that fuses biometric and computer-vision signals into a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH066&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARISH066/HARISH066/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARISH066/HARISH066/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HARISH066/HARISH066/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🏅 Trophies
 
 <div align="center">
