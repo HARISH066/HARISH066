@@ -30,10 +30,11 @@
 - 💬 Ask me about RAG pipelines, LangChain, Computer Vision, Edge AI, or full-stack GenAI apps
 
 ### 💭 Random Dev Quote
- 
+
 <div align="center">
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
- 
+
 </div>
 
 ### 🚀 What I'm Building Right Now
