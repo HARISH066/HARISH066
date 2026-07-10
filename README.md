@@ -75,14 +75,14 @@
 
 **💰 Financial Health Assessment Platform**
 Full-stack SME analytics tool with React + FastAPI + PostgreSQL; uses GPT-4 to turn financial risk scores into plain-language explanations for 50+ concurrent users.
-`React` `FastAPI` `PostgreSQL` `OpenAI GPT-4` `RAG`
+`[Financial Health Assessment Platform](https://github.com/HARISH066/repo-name)` `React` `FastAPI` `PostgreSQL` `OpenAI GPT-4` `RAG`
 
 </td>
 <td width="50%">
 
 **📊 AI Analytics Dashboard**
 End-to-end cloud app shipped on AWS EC2 in a 48-hour hackathon, using Amazon Bedrock LLM APIs to serve real-time AI-driven insights to 100+ simulated users.
-`AWS EC2` `Streamlit` `Amazon Bedrock`
+ `AWS EC2` `Streamlit` `Amazon Bedrock`
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ IoT wearable + app combo that fuses biometric and computer-vision signals into a
 </tr>
 </table>
 
-> Replace the project blocks above with links to your actual repos, e.g. `[Financial Health Assessment Platform](https://github.com/HARISH066/repo-name)`, once they're pushed to GitHub.
+
 
 ### 📈 GitHub Stats
 
