@@ -130,11 +130,7 @@ IoT wearable + app combo that fuses biometric and computer-vision signals into a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARISH066&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 
-### 🏅 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HARISH066&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
 
 ### 🎓 Education & Certifications
 
