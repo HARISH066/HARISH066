@@ -75,16 +75,17 @@
 <tr>
 <td width="50%">
 
+**⚠️ Automated Hazard-Detection Framework**
+Engineered a real-time hazard-detection framework for industrial safety, elevating accuracy by 12% and eliminating 10+ hours per week of manual quality checks[cite: 1].
+`Python` `OpenCV` `Deep Learning` `TensorRT`
+
+</td>
+
+<td width="50%">
+
 **💰 Financial Health Assessment Platform**
 Full-stack SME analytics tool with React + FastAPI + PostgreSQL; uses GPT-4 to turn financial risk scores into plain-language explanations for 50+ concurrent users.
 `React` `FastAPI` `PostgreSQL` `OpenAI GPT-4` `RAG`
-
-</td>
-<td width="50%">
-
-**📊 AI Analytics Dashboard**
-End-to-end cloud app shipped on AWS EC2 in a 48-hour hackathon, using Amazon Bedrock LLM APIs to serve real-time AI-driven insights to 100+ simulated users.
-`AWS EC2` `Streamlit` `Amazon Bedrock`
 
 </td>
 </tr>
@@ -98,15 +99,13 @@ RAG-powered Q&A assistant built on Google Gemini + LLaMA 2, tested across 500+ q
 </td>
 <td width="50%">
 
-**🛡️ SHIELD — Women's Safety Platform** *(in progress)*
-IoT wearable + app combo that fuses biometric and computer-vision signals into a live "Danger Index" for autonomous emergency response.
-`IoT` `Computer Vision` `Edge AI`
+**🏖️ Beach Surveillance Face Recognition**
+Developed an embedding-based edge AI system using InsightFace (Buffalo-l) to identify suspects in real time, achieving 98.7% accuracy, 22% fewer false positives, and 25–30 FPS.
+`InsightFace` `Buffalo-l` `NumPy` `Edge AI`
 
 </td>
 </tr>
 </table>
-
-> Replace the project blocks above with links to your actual repos, e.g. `[Financial Health Assessment Platform](https://github.com/HARISH066/repo-name)`, once they're pushed to GitHub.
 
 ### 📈 GitHub Stats
 
