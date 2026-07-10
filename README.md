@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=180&section=header&text=Harikrishnan%20R&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="[https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=180&section=header&text=Harikrishnan%20R&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%](https://capsule-render.vercel.app/api?type=wave&color=0:360033,100:ee0979&height=180&section=header&text=Harikrishnan%20R&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn)" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+-+LLM+%26+GenAI+Developer;Building+with+GPT-4%2C+LangChain%2C+RAG;Computer+Vision+%26+Edge+AI+Enthusiast;Currently+building+SHIELD+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
@@ -130,11 +130,7 @@ IoT wearable + app combo that fuses biometric and computer-vision signals into a
   <img alt="snake animation" src="https://raw.githubusercontent.com/HARISH066/HARISH066/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 🏅 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HARISH066&theme=onedark&no-frame=true&row=1&column=6" />
-</div>
 
 ### 🎓 Education & Certifications
 
