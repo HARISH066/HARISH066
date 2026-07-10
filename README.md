@@ -112,10 +112,9 @@ IoT wearable + app combo that fuses biometric and computer-vision signals into a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HARISH066&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARISH066&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://streak-stats.demolab.com?user=HARISH066&theme=tokyonight&hide_border=true" width="49%" />
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="30%" />
+<img src="./profile/streak.svg" width="49%" />
 
 </div>
 
